@@ -276,6 +276,7 @@ newPassword | 新密码 | Y | string |
 
 #### **退出**
 `/Admin/Manager/logout` `POST`
+
 **Response**  
 ```json
 {
